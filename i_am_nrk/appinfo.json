@@ -1,0 +1,17 @@
+{
+  "uuid": "644386bc-468d-4016-bfad-b2583c57b8bf",
+  "shortName": "i_am_nrk",
+  "longName": "i_am_nrk",
+  "companyName": "rnagella development",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
